@@ -1,2 +1,2 @@
-# Scientify
+# [Scientify] (https://diksharai9.github.io/Scientify/)
 This is a science website currently under progress........
